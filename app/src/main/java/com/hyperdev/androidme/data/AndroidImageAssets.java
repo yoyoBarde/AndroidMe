@@ -10,6 +10,8 @@ import java.util.List;
  */
 public final class AndroidImageAssets {
 
+
+
     private static final List<Integer> heads = new ArrayList<Integer>() {{
         add(R.drawable.head1);
         add(R.drawable.head2);
